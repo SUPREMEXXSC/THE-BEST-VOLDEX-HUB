@@ -1,0 +1,287 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("VOLDEX HUB", "Default")
+local tab = DrRayLibrary.newTab("FUN", "ImageIdHere")
+tab.newButton("KJ HAX", "KEY = TSB920Z", function()
+loadstring(game:HttpGet("https://rentry.co/tghuofnu/raw"))()
+end)
+tab.newButton("ESP", " Hello!", function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Lucasfin000/SpaceHub/main/UESP")()
+end)
+tab.newButton("NO STUN", "Prints Hello!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/nostun.lua",true))()
+end)
+tab.newButton("GET KICKED", "Prints Hello!", function()
+game:GetService("Players").LocalPlayer:Kick("LOLOLOL GET KICKED EZZZZZ NOOB BOZO")
+end)
+tab.newButton("dunked on! (with second garou move)", "Prints Hello!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tamarixr/tamhub/main/wwoa.lua"))()
+end)
+tab.newButton("run tool", "mqho gyst gyat", function()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/tamarixr/tamhub/main/run.lua")()
+end)
+tab.newButton("free emotes", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/XXSCRIPTSS/FREE-EMOTES/refs/heads/main/OP%20XXSC%20BY%20NETLESSED",true))()
+end)
+tab.newButton("VOLDEX KJ HAX", "NO KEY TAKES TIME TO LOAD", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/VOLDEXHUB/refs/heads/main/Best%20SCRIPT%20FOR%20TSB/I%20GOT%20RAPED",true))()
+end)
+tab.newButton("betless hub", "its trash kinda", function()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-BETLESS-HUB-16769"))()
+end)
+tab.newButton("AIM LOCK", "COOL", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/sdfesdfsedf/srgtergasdfs/main/aim", true))()
+end)
+tab.newButton("VFX LOGGER", "ONLY FOR SCRIPTER", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/2uXfJqdU"))()
+end)
+local tab = DrRayLibrary.newTab("movesets", "ImageIdHere")
+
+tab.newButton("kizaru", "Prints Hello!", function()
+loadstring(game:HttpGet("https://paste.ee/r/NPnfk"))()
+end)
+tab.newButton("jjs gojo", "Prints Hello!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/damir512/jjsgojov3/main/SaitamaToGojoV3_SOURCE-obfuscated_2.txt",true))()
+end)
+tab.newButton("luffy", "Prints Hello!", function()
+loadstring(game:HttpGet("https://github.com/aggiealledge/obfuscated-scripts/raw/refs/heads/main/Protected_7732857839120517.txt"))()
+end)
+tab.newButton("CHAINSAW MAN", "Prints Hello!", function()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/GoldenHeads2/0fd8d36993c850f3fac89e5adf793076/raw/ab4f5a42bd0b2e24a32a46301d533ea849ca771c/gistfile1.txt"))()
+end)
+tab.newButton("SAITAMA TO GOJO BY ME", "Prints Hello!", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/Ty4Y6zfF",true))()
+end)
+tab.newButton("ATOMIC TO MEGUNA", "Prints Hello!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SerialdesignationV-collab/Meguna-Script-Yippee/refs/heads/main/imma-patch-this-shit.lua"))()
+end)
+tab.newButton("saitama to hakari", "by hamlet", function()
+    loadstring(game:HttpGet("https://pastebin.com/raw/eEDYWj8p"))()
+end)
+tab.newButton("garou to kj", "by kenjaku", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/damir512/garoukjv1maybeidk/main/Protected_2460290213750059.txt",true))()
+end)
+tab.newButton("jjs mahito", "sigma i love ittt", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Kenjihin69/Kenjihin69/refs/heads/main/Mahitotsbupdate'))()
+end)
+tab.newButton("blade to yuta", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/damir512/AtomicToYuta/main/Protected_8122576078506000.txt"))()
+end)
+tab.newButton("garou to optimus", "cool", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DjngleQuandale/OptimusPrimeTsb/refs/heads/main/Optimusmoveset"))()
+end)
+tab.newButton("garou to cosmic garou", "ski", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Movesssssssloala/refs/heads/main/CustomMove.txt"))()
+end)
+tab.newButton("sukuna by my friend", "try now", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Luckyfromyoutube/SUKUNA/refs/heads/main/20%25VFX-FIRE"))()
+end)
+tab.newButton("garou to okarun by my friend", "skibdi", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Luckyfromyoutube/Okarun/refs/heads/main/20%25Okarun20%25Garou"))()
+end)
+tab.newButton("shibuya gojo by my friend", "cool", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Luckyfromyoutube/Shibuya-Gojo/refs/heads/main/TrueUltplusVfx"))()
+end)
+tab.newButton("BRUTAL DEMON TO KRATOS", "By novahitta", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nova2ezz/Kratoss/refs/heads/main/moveset"))()
+end)
+tab.newButton("YUJI", "BY ONIHUB USE SAITAMA", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Onihub-sigma/Onihub-Itadori/refs/heads/main/Itadori%20Onihub%20Public.txt"))()
+end)
+tab.newButton("saitama to gojo", "by onihub", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Onihub-sigma/OniHub-Gojo-Public/refs/heads/main/Gojo%20Onihub%20Public.txt"))()
+end)
+tab.newButton("deadly ninjasung jin woo ", "Prints Hello!", function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Nova2ezz/nova2ezz-SungjiWoo/refs/heads/main/Protected_7939201355282604.txt"))()  
+end)
+tab.newButton("atomic to vergil", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nova2ezz/vergilmoveset/refs/heads/main/Protected_9080797627073616.txt"))()
+end)
+tab.newButton("minos prime use garou", "Prints Hello!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S1gmaGuy/Minosprime/refs/heads/main/Minos%20prime%20finally%20released"))()
+end)
+tab.newButton("atomic to floating girl", "by reap", function()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Reapvitalized/735fd6a5959d70a9145b3a0aba83ce08/raw/50da1f68081912b510c19cc7da74c809ade7d38c/constprot.lua"))()
+end)
+tab.newButton("kj moveset", "APPEARS IN CHRACTER LIST", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sinoio/Sin/refs/heads/main/Bruv"))()
+end)
+tab.newButton("saitama to jun by wisp", "Prints Hello!", function()
+    getgenv().sendChat = true
+getgenv().BetterGraphics = true
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/wispwisp22/Limitless-legacy/refs/heads/main/ReuploadedJun")()
+end)
+tab.newButton("saitama to gojo", "Prints Hello!", function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Gokou300/Gokou300/refs/heads/main/GOJO_MAXIMUM_OUTPUT_SAITAMA_TSB"))()
+end)
+tab.newButton("saitama to yuji", "MADE BY ME", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/Saitama-to-yuji/refs/heads/main/THE%20BEST%20YUJI%20SCRIPT%20EVER/TRY%20NOW%20/I%20GOT%20RAPED",true))()
+end)
+tab.newButton("saitama to jun", "MADE BY ME", function()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/JUN-MOVESET-BEST/refs/heads/main/BEST%20MOVESET%20EVER/NO%20ULT/I%20GOT%20RAPED",true))()   
+end)
+tab.newButton("garou to okarun", "BY ME", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/JUN-MOVESET-BEST/refs/heads/main/BEST%20MOVESET%20EVER/NO%20ULT/I%20GOT%20RAPED",true))()
+end)
+tab.newButton("SAITAMA TO JK", "BY ME AND MY FRIEND", function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/SAITAMA-TO-JK/refs/heads/main/BEST%20JK%20SCRIPT/BY%20CLASSICSCRIPTER%20AND%20THEVOLDEX/WE%20GOT%20RAPED.",true))()  
+end)
+tab.newButton("GAROU TO JOHN DOE", "BY MY FRIEND", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Luckyfromyoutube/JohnDoe/refs/heads/main/TSBMODEL"))()
+end)
+local tab = DrRayLibrary.newTab("AUTO FARM", "ImageIdHere")
+tab.newButton("VEXON HUB", "Prints Hello!", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DiosDi/VexonHub/main/TSB-VexonHub"))()
+end)
+tab.newButton("speed hub", "bestt", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+end)
+tab.newButton("VOLDEX autofarm", "by me", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/9BITS-AUTOFARM/refs/heads/main/Skibdii%20skibdiii",true))()
+end)
+local tab = DrRayLibrary.newTab("BEST PAGE", "ImageIdHere")
+tab.newButton("get 1000 robix", "gives free robuc", function()
+    game:GetService("Players").LocalPlayer:Kick("LOLOLOL BOZO GET SCAMMED  YOUR NOW BANNED FOR 1000000 YEARS")
+end)
+tab.newButton("discord", "bro no need to explain copy and paste it in dsc", function()
+  setclipboard("https://discord.gg/rcq9VPNu")  
+end)
+tab.newButton("CREDITS TO THEVOLDEX(ザヴォルデックス)", "And no one else", function()
+    print('Hello!')
+end)
+local tab = DrRayLibrary.newTab("ANIMATIONS", "ImageIdHere")
+tab.newButton("hub", "", function()
+  loadstring(game:HttpGet('https://raw.githubusercontent.com/Mautiku/ehh/main/strong%20guest.lua.txt'))()  
+end)
+tab.newButton("another hub", "Prints Hello!", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/Mautiku/TSB-anim/main/TSBANIMS'),true))()
+end)
+local tab = DrRayLibrary.newTab("teleports", "ImageIdHere")
+tab.newButton("TELEPORTS GUI", "BY ME", function()
+-- Setup GUI elements
+local player = game.Players.LocalPlayer
+local screenGui = Instance.new("ScreenGui")
+screenGui.Parent = player.PlayerGui
+
+-- Create the toggle button (25x25)
+local toggleButton = Instance.new("TextButton")
+toggleButton.Size = UDim2.new(0, 25, 0, 25)
+toggleButton.Position = UDim2.new(0, 10, 0, 10)
+toggleButton.Text = "+"
+toggleButton.BackgroundColor3 = Color3.fromRGB(0, 255, 0)
+toggleButton.Parent = screenGui
+
+-- Create the main menu (hidden by default)
+local mainMenu = Instance.new("Frame")
+mainMenu.Size = UDim2.new(0, 400, 0, 400)
+mainMenu.Position = UDim2.new(0.5, -200, 0.5, -200)
+mainMenu.BackgroundTransparency = 0.5
+mainMenu.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+mainMenu.Visible = false
+mainMenu.Parent = screenGui
+
+-- Create 8 buttons and labels in the main menu
+local labels = {
+    "Main Map", "Mountain 1", "Mountain 2", "Death counter room",
+    "Atomic slash room", "Upper baseplate", "Lower baseplate", "Void"
+}
+
+local buttons = {}
+for i = 1, 8 do
+    -- Create button
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 100, 0, 50)
+    -- Moved buttons 75 pixels lower by increasing the Y value in Position (by adding 75 to the Y value)
+    button.Position = UDim2.new(0, (i-1)%4 * 105, 0, math.floor((i-1)/4) * 55 + 75)
+    button.Text = ""
+    button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+    button.Parent = mainMenu
+
+    -- Create label for button
+    local label = Instance.new("TextLabel")
+    label.Size = UDim2.new(1, 0, 1, 0)
+    label.Text = labels[i]
+    label.TextColor3 = Color3.fromRGB(0, 0, 0)
+    label.BackgroundTransparency = 1
+    label.TextSize = 10  -- Reduced text size for better fit
+    label.Parent = button
+
+    table.insert(buttons, button)
+end
+
+-- Function to toggle the visibility of the main menu
+local function toggleMenu()
+    mainMenu.Visible = not mainMenu.Visible
+end
+
+-- Connect the toggle button to the toggleMenu function
+toggleButton.MouseButton1Click:Connect(toggleMenu)
+
+-- Function to teleport the player
+local function teleportToPosition(position)
+    if player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        player.Character.HumanoidRootPart.CFrame = CFrame.new(position)
+    end
+end
+
+-- Teleportation for the 8 buttons
+local originalPosition = nil
+local baseplateCreated = false
+
+buttons[1].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(219.81, 437.76, -62.96)) -- Main Map coordinates
+end)
+
+buttons[2].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(-100.45, 649.84, -381.81)) -- Mountain 1 coordinates
+end)
+
+buttons[3].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(343.55, 696.10, 370.36)) -- Mountain 2 coordinates (updated)
+end)
+
+buttons[4].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(-35.38, 34.95, 20348.53)) -- Death counter room coordinates
+end)
+
+buttons[5].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(1086.53, 142.31, 23007.97)) -- Atomic slash room coordinates
+end)
+
+buttons[6].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(1163.84, 402.99, 22901.67)) -- Upper baseplate coordinates
+end)
+
+buttons[7].MouseButton1Click:Connect(function()
+    teleportToPosition(Vector3.new(1144.79, 16.93, 22928.82)) -- Lower baseplate coordinates
+end)
+
+buttons[8].MouseButton1Click:Connect(function()
+    -- Check if we are already in the Void location
+    if originalPosition == nil then
+        -- Store the current position (original position) and teleport to the Void coordinates
+        originalPosition = player.Character.HumanoidRootPart.CFrame.Position
+        teleportToPosition(Vector3.new(-6896.53, 873.40, -6729.34)) -- Void coordinates
+        
+        -- Create a 100x100x100 baseplate 2 studs below the Void position
+        if not baseplateCreated then
+            local baseplate = Instance.new("Part")
+            baseplate.Size = Vector3.new(100, 1, 100)  -- 100x100 baseplate
+            baseplate.Position = Vector3.new(-6896.53, 871.40, -6729.34)  -- 2 studs below the Void position
+            baseplate.Anchored = true
+            baseplate.Parent = game.Workspace
+            baseplateCreated = true
+        end
+    else
+        -- If already in Void, teleport back to the original position
+        teleportToPosition(originalPosition)
+        originalPosition = nil  -- Reset the original position
+    end
+end)
+end)
+tab.newButton("goku teleport tool", "Prints Hello!", function()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/SUPREMEXXSC/SKIBIDIII/refs/heads/main/Skibidii",true))()  
+end)
+tab.newButton("another teleport gui but small", "Prints Hello!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Obfuscate2/main/obf_TOh95bwY3QlD6Su0tvByE4lEBi14b4R54ousQ9R8vTAjGjF0ee7wts7he0gZh4Ib.lua.txt"))()    
+end)
